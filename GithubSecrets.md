@@ -1,6 +1,7 @@
 
 # PSIRT PLAYBOOK :green_book:
 ### Handling Exposed Secrets, Leaked Credentials, and Leaked API Keys.
+
 ---
 
 This playbook outlines a clear and easy-to-understand set of steps that your Product Security Incident Response Team (PSIRT) should follow when handling exposed GitHub secrets, leaked credentials, or leaked API keys. The instructions are beginner-friendly and can be implemented by anyone with basic knowledge of security concepts.
